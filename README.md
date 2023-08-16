@@ -9,16 +9,14 @@ Brief project description.
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
 
-- PHP (version X.X)
-- MySQL (version X.X)
-- Web server (e.g., Apache, Nginx)
-##- Composer (if applicable)
+- PHP (version latest)
+- MySQL (version latest)
+- Web server (e.g., Apache)
 
 ## Getting Started
 
@@ -41,10 +39,6 @@ Brief project description.
 - Username: root
 - Password: ""
 
-## Contributing
-
-
-## License
 
 
 
