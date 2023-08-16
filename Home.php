@@ -15,7 +15,7 @@
             <ul class="flex justify-around gap-12 ">
                 <li class=" font-bold p-4 " >Home</li>
                 <a href="reg.php" class="font-bold px-4 py-4 bg-purple-400 text-white">Register</a>
-                <button type="submit">Logout</button>
+                <a href="logout.php" class="p-4">Logout</a>
            </ul>
     </nav>
    </header>
