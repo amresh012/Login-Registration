@@ -36,8 +36,9 @@ Brief project description.
 
 1. Open a web browser and go to `http://localhost:8000`.
 2. Log in using the provided test credentials:
-- Username: root
-- Password: ""
+- Username: admin
+- email : admin@admin.com
+- Password: "admin"
 
 
 
