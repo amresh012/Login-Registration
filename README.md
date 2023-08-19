@@ -2,8 +2,11 @@
 # Php Login signup system
 
 Brief project description.
+![Web capture_19-8-2023_171751_localhost](https://github.com/amresh012/Login-Registration/assets/73485115/a135aa66-20fc-4584-9747-d4459bbca8c6)
+![Web capture_19-8-2023_17189_localhost](https://github.com/amresh012/Login-Registration/assets/73485115/03d0e391-857a-4388-89c2-6ea3c67dfbaf)
 
-## Table of Contents
+## Table of Contents![Web capture_19-8-2023_171825_localhost](https://github.com/amresh012/Login-Registration/assets/73485115/510dfcd6-56d0-4c63-ac22-b4b9d4140650)
+
 
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
